@@ -1,9 +1,8 @@
-
-ID	Name	Designator	Footprint	Quantity	Manufacturer Part	Manufacturer	Supplier	Supplier Part	Price	Pins	3DModel	Contributor	JLCPCB Part Class	link
-1	HS91L02W2C01	OLED1	OLED-TH_L38.0-W12.0_HS91L02W2C01	1	HS91L02W2C01	HS(汉昇)	LCSC	C5248081	2.317	4	OLED-TH_L38.0-W12.0_HS91L02W2C01	lcsc	Extended Part	https://atta.szlcsc.com/upload/public/pdf/source/20230727/C3E43C8E3DDA847F5681FEE7D95C153D.pdf
-2	EC11E18244AU	SW10	SW-TH_EC11XXXXXXXX	1	EC11E18244AU	ALPSALPINE(阿尔卑斯阿尔派)	LCSC	C202365	2.348	7	SW-TH_EC11XXXXXXXX-L11.7-W12.0-H24.5-P2.5-LS14.5	LCSC	Extended Part	https://so.szlcsc.com/global.html?c=&k=C202365
-3	MX1A-11NW	SW1,SW2,SW3,SW4,SW5,SW6,SW7,SW8,SW9	SW-TH_MX1A-11NW	9	MX1A-11NW	CHERRY	LCSC	C3316924	0.685	2	SW-TH_MX1A-11NW	lcsc	Extended Part	https://www.farnell.com/datasheets/2775479.pdf
-4	1N4148W T4	D1,D2,D3	SOD-123_L2.8-W1.8-LS3.7-RD	3	1N4148W	CJ(江苏长电/长晶)	LCSC	C2099	0.011	2	SOD-123_L2.8-W1.8-LS3.7-RD	立创EDA官方封装库	Extended Part	https://item.szlcsc.com/301422.html
-5	1N4148W T4	D4,D5,D6,D7,D8,D9	SOD-123_L2.8-W1.8-LS3.7-RD	6	1N4148W	CJ(江苏长电/长晶)	LCSC	C2099	0.011	2	SOD-123_L2.8-W1.8-LS3.7-RD	立创EDA官方封装库	Extended Part	https://lcsc.com/eda_search?q=C2099&%26type=1&ref=editor
-6	102010448_C17209540	U1	BULETM-SMD_L22.5-W17.8102010448	1	102010448	Seeed(矽递科技)	LCSC	C17209540	10.858	22		lcsc	Extended Part	https://files.seeedstudio.com/wiki/XIAO-BLE/Seeed-Studio-XIAO-nRF52840-footprint-eagle.lbr
-
+| ID | Name | Designator | Footprint | Quantity | Manufacturer Part | Manufacturer | Supplier | Supplier Part | Price | Pins | 3DModel | Contributor | JLCPCB Part Class | link |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | HS91L02W2C01 | OLED1 | OLED-TH_L38.0-W12.0_HS91L02W2C01 | 1 | HS91L02W2C01 | HS(汉昇) | LCSC | C5248081 | 2.317 | 4 | OLED-TH_L38.0-W12.0_HS91L02W2C01 | lcsc | Extended Part | https://atta.szlcsc.com/upload/public/pdf/source/20230727/C3E43C8E3DDA847F5681FEE7D95C153D.pdf |
+| 2 | EC11E18244AU | SW10 | SW-TH_EC11XXXXXXXX | 1 | EC11E18244AU | ALPSALPINE(阿尔卑斯阿尔派) | LCSC | C202365 | 2.348 | 7 | SW-TH_EC11XXXXXXXX-L11.7-W12.0-H24.5-P2.5-LS14.5 | LCSC | Extended Part | https://so.szlcsc.com/global.html?c=&k=C202365 |
+| 3 | MX1A-11NW | SW1,SW2,SW3,SW4,SW5,SW6,SW7,SW8,SW9 | SW-TH_MX1A-11NW | 9 | MX1A-11NW | CHERRY | LCSC | C3316924 | 0.685 | 2 | SW-TH_MX1A-11NW | lcsc | Extended Part | https://www.farnell.com/datasheets/2775479.pdf |
+| 4 | 1N4148W T4 | D1,D2,D3 | SOD-123_L2.8-W1.8-LS3.7-RD | 3 | 1N4148W | CJ(江苏长电/长晶) | LCSC | C2099 | 0.011 | 2 | SOD-123_L2.8-W1.8-LS3.7-RD | 立创EDA官方封装库 | Extended Part | https://item.szlcsc.com/301422.html |
+| 5 | 1N4148W T4 | D4,D5,D6,D7,D8,D9 | SOD-123_L2.8-W1.8-LS3.7-RD | 6 | 1N4148W | CJ(江苏长电/长晶) | LCSC | C2099 | 0.011 | 2 | SOD-123_L2.8-W1.8-LS3.7-RD | 立创EDA官方封装库 | Extended Part | https://lcsc.com/eda_search?q=C2099&%26type=1&ref=editor |
+| 6 | 102010448_C17209540 | U1 | BULETM-SMD_L22.5-W17.8102010448 | 1 | 102010448 | Seeed(矽递科技) | LCSC | C17209540 | 10.858 | 22 | | lcsc | Extended Part | https://files.seeedstudio.com/wiki/XIAO-BLE/Seeed-Studio-XIAO-nRF52840-footprint-eagle.lbr |
