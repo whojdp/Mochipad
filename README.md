@@ -1,21 +1,16 @@
 # Mochipad
 
-A compact, custom 3x3 mechanical macropad with a rotary encoder and a 0.91" OLED display, built from scratch in EasyEDA around the Seeed XIAO nRF52840.
+Mochipad is a goated macropad made by a goated person, built from scratch in EasyEDA around the Seeed XIAO nRF52840.
 
-## What It Is
+## Basic Outline
 
-Mochipad is a `66 x 90 mm` portrait-oriented desk macropad combining nine tactile mechanical keys, a clickable rotary knob, and an onboard status screen on a single custom 2-layer PCB. To keep the front surface clean and compact, the Seeed XIAO nRF52840 and all nine matrix diodes are mounted on the bottom layer, leaving the top dedicated purely to inputs and the display.
+Build arounf the SEEED XIAO, it has 9 tactile keys, a clickable roatary knob(tuff), and a screen on a custom 2 layed PCB. The top of the pcb is dedicated to inputs and the display, while the diodes and the XIAO is mounted on the back 
 
 ## Why I Built It
 
-I wanted to move beyond software-only projects and learn real hardware design end to end, going from a blank schematic sheet to a manufacturable PCB. Building a macropad from scratch forced me to learn the fundamentals hands-on:
+I really wanted to make my first project and felt that macropad is the perfect palce to start, it took me around 12-13 hours to complete this and was really fun to make, even though it was a bit complicated a lol here n there but I managed. I have no regrets starting this
 
-* Designing an anti-ghosting diode switch matrix (`col2row`)
-* Choosing real LCSC components, verifying footprints, and fixing pinout mistakes
-* Managing 2-layer routing, drill clearances, RF/antenna keepout zones, and DRC debugging
-* Iterating through multiple layouts, from a wide `97 x 65 mm` draft to the final compact `66 x 90 mm` vertical board
-
-On the practical side, it gives me a dedicated desk controller for everyday shortcuts, layer switching, media playback, and volume control via the rotary knob, with the OLED showing active layers or status info.
+On the practical side, I now have a dedicated desk controller for everyday shortcuts, layer switching, media playback, and volume control via the rotary knob, with the OLED showing active layers or status info.
 
 ## Hardware & Technical Specs
 
